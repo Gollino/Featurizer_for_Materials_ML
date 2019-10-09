@@ -1,1 +1,1 @@
-# Featurizer_for_Materials_ML
+# Featurizer for Materials ML
